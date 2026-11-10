@@ -1,0 +1,6 @@
+{
+  "name": "Dokan",
+  "description": "Multi-vendor marketplace and retail store management platform with vendor shops, inventory, POS, customer and supplier accounts, and data backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
